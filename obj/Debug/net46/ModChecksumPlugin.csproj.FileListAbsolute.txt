@@ -1,0 +1,6 @@
+C:\Users\qazws\Desktop\工作\接案\ModChecksumPlugin\ModChecksumPlugin\obj\Debug\net46\ModChecksumPlugin.csproj.AssemblyReference.cache
+C:\Users\qazws\Desktop\工作\接案\ModChecksumPlugin\ModChecksumPlugin\obj\Debug\net46\PluginInfo.cs
+C:\Users\qazws\Desktop\工作\接案\ModChecksumPlugin\ModChecksumPlugin\obj\Debug\net46\ModChecksumPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qazws\Desktop\工作\接案\ModChecksumPlugin\ModChecksumPlugin\obj\Debug\net46\ModChecksumPlugin.AssemblyInfoInputs.cache
+C:\Users\qazws\Desktop\工作\接案\ModChecksumPlugin\ModChecksumPlugin\obj\Debug\net46\ModChecksumPlugin.AssemblyInfo.cs
+C:\Users\qazws\Desktop\工作\接案\ModChecksumPlugin\ModChecksumPlugin\obj\Debug\net46\ModChecksumPlugin.csproj.CoreCompileInputs.cache
